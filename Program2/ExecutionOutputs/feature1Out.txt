@@ -1,0 +1,569 @@
+-- Airline Sorter [airline-sorter-2] --
+At Airport : DEN(Denver)
+SWA(Southwest): 	 5
+UAL(United): 	 4
+SKW(SkyWest): 	 3
+JZA(Jazz Aviation): 	 1
+LOF(Trans States): 	 1
+FFT(Frontier): 	 1
+N85(Alexandria Field): 	 1
+N52(Jaars-Townsend): 	 1
+AAL(American): 	 1
+total # of flights   : 18
+
+At Airport : HOU(Houston)
+SWA(Southwest): 	 4
+N19(aztec municipal): 	 1
+N72(Warwick Municipal): 	 1
+MLN(Melilla): 	 1
+total # of flights   : 7
+
+At Airport : DFW(Dallas-Fort Worth)
+AAL(American): 	 6
+ASH(Mesa): 	 3
+SWA(Southwest): 	 3
+SKW(SkyWest): 	 2
+DAL(Delta Air Lines): 	 2
+UAL(United): 	 1
+DLH(Duluth International): 	 1
+NKS(Spirit): 	 1
+BOE(Boeing): 	 1
+EMD(Eaglemed (Ballard Aviation)): 	 1
+QXE(Horizon Air): 	 1
+total # of flights   : 22
+
+At Airport : SMF(Sacramento)
+UAL(United): 	 1
+SWA(Southwest): 	 1
+AAL(American): 	 1
+SKW(SkyWest): 	 1
+total # of flights   : 4
+
+At Airport : IAD(Washington)
+UAL(United): 	 5
+DAL(Delta Air Lines): 	 3
+RPA(Republic): 	 1
+N73(Beech 300 Super King Air): 	 1
+AAL(American): 	 1
+N97(Hiatt): 	 1
+FFT(Frontier): 	 1
+EDV(Endeavor Air): 	 1
+BAW(British): 	 1
+ROU(rouge airline): 	 1
+SWA(Southwest): 	 1
+EJA(NetJets): 	 1
+VIR(Virgin Atlantic): 	 1
+total # of flights   : 19
+
+At Airport : STL(St Louis)
+SWA(Southwest): 	 2
+N47(Pottstown Municipal): 	 1
+BKN(Blackwell Tonkawa Municipal): 	 1
+FFT(Frontier): 	 1
+N50(Bridgeton): 	 1
+N72(Warwick Municipal): 	 1
+N95(N95): 	 1
+N20(Ine): 	 1
+total # of flights   : 9
+
+At Airport : PHL(Philadelphia)
+SWA(Southwest): 	 2
+DLH(Duluth International): 	 1
+ENY(Envoy Air): 	 1
+GAJ(Yamagata): 	 1
+RPA(Republic): 	 1
+ASH(Mesa): 	 1
+N92(Laneys): 	 1
+PJC(Zelienople Municipal): 	 1
+N22(GAF Nomad): 	 1
+total # of flights   : 10
+
+At Airport : BWI(Baltimore)
+AAL(American): 	 2
+UAL(United): 	 1
+685(Wauchula): 	 1
+ICL(Municipal): 	 1
+N30(Cherry Ridge): 	 1
+SWA(Southwest): 	 1
+JBU(JetBlue): 	 1
+LXJ(Bombardier Business Jet Solutions): 	 1
+total # of flights   : 9
+
+At Airport : SNA(Santa Ana)
+UAL(United): 	 2
+AAL(American): 	 2
+SKW(SkyWest): 	 2
+AIJ(Mexico City International): 	 1
+JBU(JetBlue): 	 1
+CPZ(Compass): 	 1
+GTI(Atlas Air): 	 1
+DAL(Delta Air Lines): 	 1
+total # of flights   : 11
+
+At Airport : PDX(Portland)
+N52(Jaars-Townsend): 	 2
+N53(Stroudsburg–Pocono): 	 2
+DAL(Delta Air Lines): 	 2
+SWA(Southwest): 	 2
+N80(Municipal  Dedication): 	 1
+N82(Wurtsboro): 	 1
+N74(Penns Cave): 	 1
+N63(Meadow Brook Field): 	 1
+N98(Boyne City Municipal): 	 1
+N56(Great Valley): 	 1
+N89(Joseph Y. Resnick): 	 1
+N44(Sky Acres): 	 1
+N19(aztec municipal): 	 1
+SKW(SkyWest): 	 1
+total # of flights   : 18
+
+At Airport : LAS(Las Vegas)
+N91(Novair): 	 2
+AAL(American): 	 2
+N23(Sidney Muni): 	 2
+DAL(Delta Air Lines): 	 2
+NKS(Spirit): 	 2
+SKW(SkyWest): 	 2
+EDG(Weide Ahp): 	 1
+CPZ(Compass): 	 1
+N31(Kutztown): 	 1
+WJA(Woja): 	 1
+ASA(Alaska): 	 1
+N22(GAF Nomad): 	 1
+N13(Bloomsburg): 	 1
+N38(Wellsboro Johnston): 	 1
+SWA(Southwest): 	 1
+total # of flights   : 21
+
+At Airport : SEA(Seattle)
+DLH(Duluth International): 	 1
+UAL(United): 	 1
+N92(Laneys): 	 1
+N70(Pennridge): 	 1
+N95(N95): 	 1
+N73(Beech 300 Super King Air): 	 1
+N51(Solberg-Hunterdon): 	 1
+AAL(American): 	 1
+N97(Hiatt): 	 1
+N23(Sidney Muni): 	 1
+DAL(Delta Air Lines): 	 1
+N34(Chattanooga): 	 1
+N12(Lakewood): 	 1
+N67(Wings): 	 1
+ASA(Alaska): 	 1
+N36(Wotje): 	 1
+N16(Centre Airpark): 	 1
+CAP(Civil Air Patrol): 	 1
+N15(Kingston): 	 1
+N29(Magdalena): 	 1
+N28(G GERALD): 	 1
+QXE(Horizon Air): 	 1
+total # of flights   : 22
+
+At Airport : RDU(Raleigh/Durham)
+GJS(GoJet): 	 1
+N17(Vaughn Muni): 	 1
+N60(N60): 	 1
+N82(Wurtsboro): 	 1
+AAL(American): 	 1
+N86(Spanish Springs): 	 1
+N42(Shippensburg): 	 1
+N75(Beech 300 Super King Air): 	 1
+DAL(Delta Air Lines): 	 1
+total # of flights   : 9
+
+At Airport : BOS(Boston)
+KAP(Cape Air): 	 3
+SWA(Southwest): 	 2
+JZA(Jazz Aviation): 	 1
+CHH(Hainan): 	 1
+N63(Meadow Brook Field): 	 1
+JBU(JetBlue): 	 1
+total # of flights   : 9
+
+At Airport : MSP(Minneapolis)
+SKW(SkyWest): 	 6
+DAL(Delta Air Lines): 	 3
+N57(New Garden): 	 1
+NKS(Spirit): 	 1
+N63(Meadow Brook Field): 	 1
+N41(New Garden): 	 1
+N62(New Hanover): 	 1
+SWA(Southwest): 	 1
+N78(Beech 300 Super King Air): 	 1
+N33(Anic): 	 1
+total # of flights   : 17
+
+At Airport : BNA(Nashville)
+N16(Centre Airpark): 	 1
+JIA(PSA): 	 1
+EDV(Endeavor Air): 	 1
+total # of flights   : 3
+
+At Airport : DCA(Washington)
+UAL(United): 	 3
+SWA(Southwest): 	 2
+AAL(American): 	 2
+DAL(Delta Air Lines): 	 2
+UCA(CommutAir): 	 1
+FFT(Frontier): 	 1
+EDV(Endeavor Air): 	 1
+BAW(British): 	 1
+ROU(rouge airline): 	 1
+EJA(NetJets): 	 1
+VIR(Virgin Atlantic): 	 1
+N22(GAF Nomad): 	 1
+total # of flights   : 17
+
+At Airport : LGA(New York)
+UAL(United): 	 7
+ENY(Envoy Air): 	 4
+DAL(Delta Air Lines): 	 2
+EDV(Endeavor Air): 	 2
+SWA(Southwest): 	 2
+AFL(Aeroflot): 	 1
+N30(Cherry Ridge): 	 1
+AAL(American): 	 1
+N32(Blue Swan): 	 1
+SWR(Swiss International): 	 1
+N35(Punxsutawney Municipal): 	 1
+UCA(CommutAir): 	 1
+OPT(Flight Options): 	 1
+PWA(Priester Aviation): 	 1
+JBU(JetBlue): 	 1
+SKW(SkyWest): 	 1
+total # of flights   : 28
+
+At Airport : TPA(Tampa)
+DAL(Delta Air Lines): 	 3
+AAL(American): 	 2
+UAL(United): 	 1
+N70(Pennridge): 	 1
+N10(Perkiomen Valley): 	 1
+N20(Ine): 	 1
+N53(Stroudsburg–Pocono): 	 1
+N23(Sidney Muni): 	 1
+N12(Lakewood): 	 1
+N25(Blue Heron): 	 1
+ENY(Envoy Air): 	 1
+CAP(Civil Air Patrol): 	 1
+FFT(Frontier): 	 1
+AAY(Allegiant Air): 	 1
+SWA(Southwest): 	 1
+EJA(NetJets): 	 1
+total # of flights   : 19
+
+At Airport : SLC(Salt Lake City)
+SKW(SkyWest): 	 2
+AAL(American): 	 1
+SWA(Southwest): 	 1
+total # of flights   : 4
+
+At Airport : OAK(Oakland)
+UAL(United): 	 4
+SWA(Southwest): 	 3
+AAL(American): 	 3
+DAL(Delta Air Lines): 	 3
+FFT(Frontier): 	 1
+N81(Hammonton Municipal): 	 1
+FDX(FedEx Express): 	 1
+JBU(JetBlue): 	 1
+ASA(Alaska): 	 1
+total # of flights   : 18
+
+At Airport : DTW(Detroit)
+DAL(Delta Air Lines): 	 3
+SKW(SkyWest): 	 2
+GJS(GoJet): 	 1
+JIA(PSA): 	 1
+EDV(Endeavor Air): 	 1
+N81(Hammonton Municipal): 	 1
+NKS(Spirit): 	 1
+FDX(FedEx Express): 	 1
+AAL(American): 	 1
+total # of flights   : 12
+
+At Airport : IAH(Houston)
+UAL(United): 	 3
+DLH(Duluth International): 	 1
+NKS(Spirit): 	 1
+BAW(British): 	 1
+AAL(American): 	 1
+AFR(Air France): 	 1
+ASQ(ExpressJet): 	 1
+total # of flights   : 9
+
+At Airport : MCI(Kansas City)
+SWA(Southwest): 	 3
+ENY(Envoy Air): 	 1
+N49(Clarion Hotel Seattle): 	 1
+N40(Sky Manor): 	 1
+N21(Holly Ridge/Topsail Island): 	 1
+AAL(American): 	 1
+DAL(Delta Air Lines): 	 1
+SKW(SkyWest): 	 1
+N44(Sky Acres): 	 1
+total # of flights   : 11
+
+At Airport : FLL(Fort Lauderdale)
+JBU(JetBlue): 	 6
+AAL(American): 	 3
+DAL(Delta Air Lines): 	 3
+N81(Hammonton Municipal): 	 2
+N77(Nordic Regional): 	 2
+N16(Centre Airpark): 	 2
+N15(Kingston): 	 2
+NKS(Spirit): 	 2
+UAL(United): 	 1
+N80(Municipal  Dedication): 	 1
+PTP(Pointe-à-Pitre): 	 1
+273(American): 	 1
+N27: 	 1
+810(Trans-Canada Air Lines): 	 1
+SWA(Southwest): 	 1
+SDU: 	 1
+N50(Bridgeton): 	 1
+N52(Jaars-Townsend): 	 1
+N76(Beechcraft B300 King Air): 	 1
+183(Nepal): 	 1
+N31(Kutztown): 	 1
+N99(Brandywine): 	 1
+N13(Bloomsburg): 	 1
+N35(Punxsutawney Municipal): 	 1
+N38(Wellsboro Johnston): 	 1
+N37(Monticello): 	 1
+N17(Vaughn Muni): 	 1
+total # of flights   : 41
+
+At Airport : LAX(Los Angeles)
+AAL(American): 	 7
+SWA(Southwest): 	 2
+N80(Municipal  Dedication): 	 1
+CMP(Copa): 	 1
+CPZ(Compass): 	 1
+KLM(Royal Dutch): 	 1
+DAL(Delta Air Lines): 	 1
+CAL(Cargo): 	 1
+N58(Tiger Field): 	 1
+N13(Bloomsburg): 	 1
+N15(Kingston): 	 1
+ANA(Nippon): 	 1
+NKS(Spirit): 	 1
+JBU(JetBlue): 	 1
+SKW(SkyWest): 	 1
+total # of flights   : 22
+
+At Airport : EWR(Newark)
+UAL(United): 	 11
+ENY(Envoy Air): 	 4
+EDV(Endeavor Air): 	 4
+SWA(Southwest): 	 2
+AFL(Aeroflot): 	 1
+DAL(Delta Air Lines): 	 1
+SWR(Swiss International): 	 1
+N35(Punxsutawney Municipal): 	 1
+UCA(CommutAir): 	 1
+NKS(Spirit): 	 1
+PWA(Priester Aviation): 	 1
+JBU(JetBlue): 	 1
+EJA(NetJets): 	 1
+SKW(SkyWest): 	 1
+ASQ(ExpressJet): 	 1
+total # of flights   : 32
+
+At Airport : SFO(San Francisco)
+UAL(United): 	 4
+SWA(Southwest): 	 3
+AAL(American): 	 3
+DAL(Delta Air Lines): 	 3
+N81(Hammonton Municipal): 	 2
+COO(Cotonou Cadjehoun): 	 1
+FFT(Frontier): 	 1
+FDX(FedEx Express): 	 1
+ASA(Alaska): 	 1
+total # of flights   : 19
+
+At Airport : MCO(Orlando)
+SWA(Southwest): 	 4
+DAL(Delta Air Lines): 	 4
+AAL(American): 	 3
+N51(Solberg-Hunterdon): 	 2
+N17(Vaughn Muni): 	 2
+DLH(Duluth International): 	 1
+N61(Hinshaw): 	 1
+N83(National): 	 1
+N62(New Hanover): 	 1
+N84(National): 	 1
+ASA(Alaska): 	 1
+N7Z(Nordic Regional): 	 1
+N25(Blue Heron): 	 1
+ENY(Envoy Air): 	 1
+N48(Horsham Valley): 	 1
+EDV(Endeavor Air): 	 1
+JBU(JetBlue): 	 1
+CON(Continental Oil): 	 1
+N94(Carlisle): 	 1
+N11(HAWKER BEECHCRAFT): 	 1
+N14(Lumberton): 	 1
+N37(Monticello): 	 1
+N18(Turkish): 	 1
+N39(Meyers HeliporT): 	 1
+N19(aztec municipal): 	 1
+total # of flights   : 35
+
+At Airport : CLE(Cleveland)
+SWA(Southwest): 	 2
+UAL(United): 	 1
+LOF(Trans States): 	 1
+RPA(Republic): 	 1
+N90(BOMBARDIER): 	 1
+PHM(Petroleum Helicopters): 	 1
+CGH(Sao Paulo Congonhas): 	 1
+N98(Boyne City Municipal): 	 1
+total # of flights   : 9
+
+At Airport : ORD(Chicago)
+UAL(United): 	 5
+EJA(NetJets): 	 3
+AAL(American): 	 2
+SWA(Southwest): 	 2
+SKW(SkyWest): 	 2
+LOT(Polish): 	 1
+RPA(Republic): 	 1
+AIJ(Mexico City International): 	 1
+N21(Holly Ridge/Topsail Island): 	 1
+DAL(Delta Air Lines): 	 1
+ASQ(ExpressJet): 	 1
+total # of flights   : 20
+
+At Airport : CLT(Charlotte)
+AAL(American): 	 2
+N35(Punxsutawney Municipal): 	 1
+JIA(PSA): 	 1
+FDX(FedEx Express): 	 1
+total # of flights   : 5
+
+At Airport : MIA(Miami)
+JBU(JetBlue): 	 5
+AAL(American): 	 5
+N35(Punxsutawney Municipal): 	 2
+NKS(Spirit): 	 2
+DLH(Duluth International): 	 1
+UAL(United): 	 1
+N80(Municipal  Dedication): 	 1
+N61(Hinshaw): 	 1
+N62(New Hanover): 	 1
+PTP(Pointe-à-Pitre): 	 1
+273(American): 	 1
+ENY(Envoy Air): 	 1
+810(Trans-Canada Air Lines): 	 1
+SWA(Southwest): 	 1
+N50(Bridgeton): 	 1
+N52(Jaars-Townsend): 	 1
+N51(Solberg-Hunterdon): 	 1
+AVA(Ava): 	 1
+N76(Beechcraft B300 King Air): 	 1
+183(Nepal): 	 1
+DAL(Delta Air Lines): 	 1
+N99(Brandywine): 	 1
+N13(Bloomsburg): 	 1
+N38(Wellsboro Johnston): 	 1
+N16(Centre Airpark): 	 1
+N15(Kingston): 	 1
+N37(Monticello): 	 1
+GTI(Atlas Air): 	 1
+total # of flights   : 38
+
+At Airport : HNL(Honolulu)
+N11(HAWKER BEECHCRAFT): 	 2
+N48(Horsham Valley): 	 1
+JAL(Japan): 	 1
+BAD(BAD): 	 1
+KAL(Korean Air): 	 1
+N80(Municipal  Dedication): 	 1
+N42(Shippensburg): 	 1
+N77(Nordic Regional): 	 1
+total # of flights   : 9
+
+At Airport : SAN(San Diego)
+AAL(American): 	 3
+SKW(SkyWest): 	 3
+SWA(Southwest): 	 2
+VOI(Volaris): 	 1
+UAL(United): 	 1
+FFT(Frontier): 	 1
+N28(G GERALD): 	 1
+RCH(Air Mobility Command): 	 1
+N95(N95): 	 1
+DAL(Delta Air Lines): 	 1
+total # of flights   : 15
+
+At Airport : JFK(New York)
+UAL(United): 	 6
+ENY(Envoy Air): 	 4
+EDV(Endeavor Air): 	 4
+DAL(Delta Air Lines): 	 2
+AFL(Aeroflot): 	 1
+N32(Blue Swan): 	 1
+SWR(Swiss International): 	 1
+N35(Punxsutawney Municipal): 	 1
+AUI(Ukraine International): 	 1
+PWA(Priester Aviation): 	 1
+JBU(JetBlue): 	 1
+SWA(Southwest): 	 1
+SKW(SkyWest): 	 1
+total # of flights   : 25
+
+At Airport : PHX(Phoenix)
+SWA(Southwest): 	 6
+NDU(University of North Dakota): 	 4
+AAL(American): 	 3
+N35(Punxsutawney Municipal): 	 3
+N83(National): 	 2
+OXF(Oxford): 	 2
+EJA(NetJets): 	 2
+N81(Hammonton Municipal): 	 1
+N70(Pennridge): 	 1
+N60(N60): 	 1
+MSQ(Minsk International 2): 	 1
+N96(Bellefonte -N96): 	 1
+WJA(Woja): 	 1
+N18(Turkish): 	 1
+N17(Vaughn Muni): 	 1
+ASH(Mesa): 	 1
+total # of flights   : 31
+
+At Airport : ATL(Atlanta)
+N13(Bloomsburg): 	 1
+ROU(rouge airline): 	 1
+SWA(Southwest): 	 1
+AAL(American): 	 1
+DAL(Delta Air Lines): 	 1
+N89(Joseph Y. Resnick): 	 1
+total # of flights   : 6
+
+At Airport : MDW(Chicago)
+UAL(United): 	 5
+AAL(American): 	 2
+SWA(Southwest): 	 2
+EJA(NetJets): 	 2
+LOT(Polish): 	 1
+ENY(Envoy Air): 	 1
+RPA(Republic): 	 1
+AIJ(Mexico City International): 	 1
+SCX(Sun Country): 	 1
+N21(Holly Ridge/Topsail Island): 	 1
+SKW(SkyWest): 	 1
+ASQ(ExpressJet): 	 1
+total # of flights   : 19
+
+At Airport : AUS(Austin)
+OPT(Flight Options): 	 1
+FFT(Frontier): 	 1
+SWA(Southwest): 	 1
+AAL(American): 	 1
+EJA(NetJets): 	 1
+DAL(Delta Air Lines): 	 1
+total # of flights   : 6
+
+Total execution time   : 4770
